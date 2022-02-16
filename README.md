@@ -3,6 +3,16 @@
 ## Source:
 https://hdr.undp.org/en/countries
 
+## Binaries
+Precompiled binary for Windows is in the *bin* folder. 
+
+## Make from scratch
+- Install GoLang
+- Install my statistics library
+- - > go get github.com/DanDovhun/Statistics
+- > cd /Path/To/HDI
+- > go build
+
 ## Options
 #### 1 - Show all continents
 #### 2 - Show all countries
