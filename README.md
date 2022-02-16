@@ -9,11 +9,11 @@ Precompiled binary for Windows is in the *bin* folder.
 ## Make from scratch
 - Install GoLang
 - Install my statistics library
-- > go get github.com/DanDovhun/Statistics
+ > go get github.com/DanDovhun/Statistics
 - Move to the project file
-- > cd /Path/To/HDI
+ > cd /Path/To/HDI
 - Compile
-- > go build
+ > go build
 
 ## Options
 #### 1 - Show all continents
